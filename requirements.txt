@@ -1,0 +1,9 @@
+PyPDF2
+numpy
+faiss-cpu
+sentence-transformers
+python-dotenv
+PyCryptodome
+google-generativeai
+ipykernel
+streamlit
